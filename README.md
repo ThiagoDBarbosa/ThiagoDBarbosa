@@ -17,3 +17,5 @@ I have a strong interest in Python, which I use to create automations, data anal
 
 🎯 Objectives:
 I aim to expand my knowledge and delve deeper into other areas of IT, always seeking to learn something new. I am dedicating time to build a project portfolio on GitHub that showcases my skills and can attract the attention of companies for future opportunities.
+
+🔗 LinkedIn: https://www.linkedin.com/in/thiago-barbosa-79bb70257/
